@@ -1,0 +1,15 @@
+.homeImage-pro {
+  height: 30vh;
+}
+
+.home-pro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-heading {
+  color: #551e53;
+  font-size: 60px;
+}

@@ -1,0 +1,35 @@
+.list-items {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 400px;
+}
+.unlist-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 1000px;
+  padding: 0px;
+}
+.heading-pro {
+  text-decoration: none;
+}
+.logo-image {
+  height: 5vh;
+}
+
+.logo-class {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100px;
+}
+
+.navbar-pro {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}

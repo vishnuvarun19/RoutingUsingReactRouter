@@ -1,0 +1,15 @@
+.about-image-pro {
+  height: 30vh;
+}
+
+.about-pro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-heading {
+  color: #551e53;
+  font-size: 60px;
+}

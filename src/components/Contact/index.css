@@ -1,0 +1,15 @@
+.contact-image-pro {
+  height: 30vh;
+}
+
+.contact-heading-pro {
+  color: #551e53;
+  font-size: 60px;
+}
+
+.contact-pro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
